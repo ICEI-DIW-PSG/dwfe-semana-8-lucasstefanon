@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 700px;
+    margin: 40px auto;
+    padding: 0 20px;
+    background: #111;
+    color: #eee;
+}
+
+h1 { color: #e50914; }
+
+p.hint { color: #aaa; font-style: italic; }
+
+#output { margin-top: 24px; }
+
+#output h2 {
+    color: #e50914;
+    border-bottom: 1px solid #333;
+    padding-bottom: 6px;
+}
+
+.stat { margin: 8px 0; }
+
+.ranking-item {
+    padding: 6px 10px;
+    margin: 4px 0;
+    background: #222;
+    border-radius: 4px;
+}
+
+.nota { color: #f5c518; font-weight: bold; }

@@ -3,11 +3,9 @@
 Nesta atividade, você fazer exercícios de programação para vai praticar a manipulação de objetos e arrays em JavaScript, passando pela definição de dados em notação **JSON (JavaScript Object Notation)**, acessando propriedades e itens.
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Lucas Stefanon
+- Matricula: 1659984
 
 ## Prints do console do navegador
 
-<<  COLOQUE A IMAGEM - LISTAGEM DE TÍTULOS - AQUI >>
-
-<<  COLOQUE A IMAGEM - PÁGINA COM O RESUMO - AQUI >>
+![print](public/imagem.png)
